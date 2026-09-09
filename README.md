@@ -27,6 +27,6 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Tecnológica del Per
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Walter446&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter446&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Walter446&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Walter446&layout=compact&theme=tokyonight"/>
 </div>
